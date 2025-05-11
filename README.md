@@ -89,7 +89,10 @@ git diff <arquivo>
 O comando checkout serve para voltarmos em um commit usando seu numero de identificação
 
 ```bash
-git checkout <nome-branch>
+git checkout <identificador_do_commit>
+
+ou
+
 git checkout -b <nome-branch>
 ```
 <details>
@@ -117,6 +120,56 @@ git remote add origin https://github.com/seu_user/seu_repositorio
 git push -u origin main
 ```
 Essa sequencia de comandos envia seu commit para o seu repositorio no github
+
+<br>
+<br>
+<br>
+<br>
+
+# Sessão de conteúdos(gratuitos) recomendados para auxiliar nos estudo:
+
+## playlists no youtube
+
+
+### Fernanda  Kipper
+![Logo do Projeto](./img//conteudos/FernandaKipper.png)
+[Asistir o Video ](https://youtu.be/pyM5QLS2h6M?si=fQj2tZhPvqR3cOw)
+
+### Tiago Matos
+![Logo do Projeto](./img/conteudos/TiagoMatos.png)
+[Asistir o Playlist ](https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
+
+### Curso em Video - Gustavo Guanabara
+![Logo do Projeto](./img//conteudos/CursoEmVideo.png)
+[Asistir o Playlist ](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+
+<hr>
+
+# Sites para treinar
+
+## Git Branching
+Ajuda a visualizar os comandos git e seu funcionamento
+
+![Learn Git Branching](./img/conteudos/learnGitBranching.png)
+
+[ Acessar site ](https://learngitbranching.js.org/)
+
+
+
+<hr>
+
+
+
+
+## Git docs
+A propria documentação do git
+
+![Learn Git Branching](./img/conteudos/gitdocs.png)
+
+[ Acessar site ](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git)
+
+
+
 
 <br>
 <br>
