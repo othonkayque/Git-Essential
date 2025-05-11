@@ -122,10 +122,7 @@ git push -u origin main
 Essa sequencia de comandos envia seu commit para o seu repositorio no github
 
 <br>
-<br>
-<br>
-<br>
-
+<hr>
 # Sessão de conteúdos(gratuitos) recomendados para auxiliar nos estudo:
 
 ## playlists no youtube
@@ -133,15 +130,20 @@ Essa sequencia de comandos envia seu commit para o seu repositorio no github
 
 ### Fernanda  Kipper
 ![Logo do Projeto](./img//conteudos/FernandaKipper.png)
-[Asistir o Video ](https://youtu.be/pyM5QLS2h6M?si=fQj2tZhPvqR3cOw)
+[Assistir o Video ](https://youtu.be/pyM5QLS2h6M?si=fQj2tZhPvqR3cOw)
 
 ### Tiago Matos
 ![Logo do Projeto](./img/conteudos/TiagoMatos.png)
-[Asistir o Playlist ](https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
+[Assistir o Playlist ](https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU)
 
 ### Curso em Video - Gustavo Guanabara
 ![Logo do Projeto](./img//conteudos/CursoEmVideo.png)
-[Asistir o Playlist ](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+[Assistir o Playlist ](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+
+### Programação Web - Dimitri Teixeira
+![Logo do Projeto](./img//conteudos/ProgramacaoWeb.png)
+[Assistir o Playlist ](https://youtu.be/Kyw91mqCHD0?si=uOe__B_b6IoFjjYv)
+
 
 <hr>
 
@@ -159,14 +161,23 @@ Ajuda a visualizar os comandos git e seu funcionamento
 <hr>
 
 
-
-
 ## Git docs
 A propria documentação do git
 
 ![Learn Git Branching](./img/conteudos/gitdocs.png)
 
 [ Acessar site ](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git)
+
+<br>
+<hr>
+
+# Por onde continuar aprendendo?
+Você pode continuar seus estudos seguinte esse roadmap. Não precisa de pressa, com o que você aprendeu aqui já consegue fazer muita coisa, porem é muito importante sempre continuar aprendendo.
+
+![Learn Git Branching](./img/conteudos/gitroadmap.png)
+
+[ Acessar o roadmap ](https://roadmap.sh/pdfs/roadmaps/git-github.pdf)
+
 
 
 
